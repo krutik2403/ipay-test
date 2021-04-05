@@ -16,6 +16,7 @@
 - php artisan config:cache
 - php artisan migrate
 - php artisan serve
+- php artisan queue:work
 
 ## Commands
 - php artisan fetch-data
